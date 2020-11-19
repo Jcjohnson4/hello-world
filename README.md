@@ -1,7 +1,6 @@
 # hello-world
 GDES252-101 Hello World Assignment
 
-
 Heading	
 # H1
 ## H2
@@ -28,3 +27,5 @@ Horizontal Rule	---
 Link	[title](https://www.example.com)
 
 Image	![alt text](image.jpg)
+
+This is my first edit
